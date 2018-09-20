@@ -1,1 +1,1 @@
-# play_20180920_NBAdecisionTree
+R语言决策树学习实践，应用rpart包构建决策树，构造模型识别出大合同球员。
